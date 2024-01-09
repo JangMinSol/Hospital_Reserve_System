@@ -19,6 +19,7 @@ public class Hospital extends JFrame{
 	Hospital(){
 		setTitle("병원예약프로그램");
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
 		Container c = getContentPane();
 		c.setLayout(null);
 		setBackground(Color.WHITE);
